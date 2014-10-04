@@ -159,180 +159,180 @@ Integer num1,num2,num3,num4,num5,num6,num7,num8,num9;
             {
                 request.setAttribute("nu1", good); 
                 request.setAttribute("nh1", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co1", gdc); 
             
             }
          else if(num1<100)
             {
                 request.setAttribute("nu1", poor); 
                 request.setAttribute("nh1", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co1", prc); 
             }
          else if(num1>200)
             {
                 request.setAttribute("nu1", mod); 
                 request.setAttribute("nh1", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co1", modc);
             }
                  //END: num1
          if(num2>=100 && num2<200)
             {
                 request.setAttribute("nu2", good); 
                 request.setAttribute("nh2", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co2", gdc); 
             
             }
          else if(num2<100)
             {
                 request.setAttribute("nu2", poor); 
                 request.setAttribute("nh2", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co2", prc); 
             }
          else if(num2>200)
             {
                 request.setAttribute("nu2", mod); 
                 request.setAttribute("nh2", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co2", modc);
             }
                  //END: num2
          if(num3>100 && num3<200)
             {
                 request.setAttribute("nu3", good); 
                 request.setAttribute("nh3", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co3", gdc); 
             
             }
          else if(num3<100)
             {
                 request.setAttribute("nu3", poor); 
                 request.setAttribute("nh3", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co3", prc); 
             }
          else if(num3>200)
             {
                 request.setAttribute("nu3", mod); 
                 request.setAttribute("nh3", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co3", modc);
             }
                  //END: num3
         if(num4>100 && num4<200)
             {
                 request.setAttribute("nu4", good); 
                 request.setAttribute("nh4", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co4", gdc); 
             
             }
          else if(num4<100)
             {
                 request.setAttribute("nu4", poor); 
                 request.setAttribute("nh4", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co4", prc); 
             }
          else if(num4>200)
             {
                 request.setAttribute("nu4", mod); 
                 request.setAttribute("nh4", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co4", modc);
             }
                  //END: num4
         if(num5>100 && num5<200)
             {
                 request.setAttribute("nu5", good); 
                 request.setAttribute("nh5", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co5", gdc); 
             
             }
          else if(num5<100)
             {
                 request.setAttribute("nu5", poor); 
                 request.setAttribute("nh5", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co5", prc); 
             }
          else if(num5>200)
             {
                 request.setAttribute("nu5", mod); 
                 request.setAttribute("nh5", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co5", modc);
             }
                  //END: num5
         if(num6>100 && num6<200)
             {
                 request.setAttribute("nu6", good); 
                 request.setAttribute("nh6", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co6", gdc); 
             
             }
          else if(num6<100)
             {
                 request.setAttribute("nu6", poor); 
                 request.setAttribute("nh6", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co6", prc); 
             }
          else if(num6>200)
             {
                 request.setAttribute("nu6", mod); 
                 request.setAttribute("nh6", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co6", modc);
             }
                  //END: num6
         if(num7>100 && num7<200)
             {
                 request.setAttribute("nu7", good); 
                 request.setAttribute("nh7", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co7", gdc); 
             
             }
          else if(num7<100)
             {
                 request.setAttribute("nu7", poor); 
                 request.setAttribute("nh7", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co7", prc); 
             }
          else if(num7>200)
             {
                 request.setAttribute("nu7", mod); 
                 request.setAttribute("nh7", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co7", modc);
             }
                  //END: num7
         if(num8>100 && num8<200)
             {
                 request.setAttribute("nu8", good); 
                 request.setAttribute("nh8", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co8", gdc); 
             
             }
          else if(num8<100)
             {
                 request.setAttribute("nu8", poor); 
                 request.setAttribute("nh8", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co8", prc); 
             }
          else if(num8>200)
             {
                 request.setAttribute("nu8", mod); 
                 request.setAttribute("nh8", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co8", modc);
             }
                  //END: num8
         if(num9>100 && num9<200)
             {
                 request.setAttribute("nu9", good); 
                 request.setAttribute("nh9", gd); 
-                request.setAttribute("co", gdc); 
+                request.setAttribute("co9", gdc); 
             
             }
          else if(num9<100)
             {
                 request.setAttribute("nu9", poor); 
                 request.setAttribute("nh9", pr); 
-                request.setAttribute("co", prc); 
+                request.setAttribute("co9", prc); 
             }
          else if(num9>200)
             {
                 request.setAttribute("nu9", mod); 
                 request.setAttribute("nh9", md); 
-                request.setAttribute("co", modc);
+                request.setAttribute("co9", modc);
             }
                  //END: num9
         
@@ -369,7 +369,7 @@ Integer num1,num2,num3,num4,num5,num6,num7,num8,num9;
 a moderate health concern for people sensitive to air pollution.">Moderate</span>
 </td>
 -->
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co1") %>">
     <span title=<%=request.getAttribute("nu1")%>><%=request.getAttribute("nh1")%></span>
 </td>
 
@@ -378,7 +378,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 
     <td><%= request.getAttribute("num2") %></td>
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co2") %>">
     <span title=<%=request.getAttribute("nu2")%>><%=request.getAttribute("nh2")%></span>
 </td>
 	
@@ -387,7 +387,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co3") %>">
     <span title=<%=request.getAttribute("nu3")%>><%=request.getAttribute("nh3")%></span>
 </td>
 
@@ -400,7 +400,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co4") %>">
     <span title=<%=request.getAttribute("nu4")%>><%=request.getAttribute("nh4")%></span>
 </td>
 
@@ -409,7 +409,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
     <td><%= request.getAttribute("num5") %></td>
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co5") %>">
     <span title=<%=request.getAttribute("nu5")%>><%=request.getAttribute("nh5")%></span>
 </td>
 
@@ -419,7 +419,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 	<td> <p><%= request.getAttribute("num6") %></p></td>
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co6") %>">
     <span title=<%=request.getAttribute("nu6")%>><%=request.getAttribute("nh6")%></span>
 </td>
 
@@ -432,7 +432,7 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 	<td><%= request.getAttribute("num7") %></td>
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co7") %>">
     <span title=<%=request.getAttribute("nu7")%>><%=request.getAttribute("nh7")%></span>
 </td>
 
@@ -440,14 +440,14 @@ a moderate health concern for people sensitive to air pollution.">Moderate</span
 	<td><%= request.getAttribute("num8") %></td>
 
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co8") %>">
     <span title=<%=request.getAttribute("nu8")%>><%=request.getAttribute("nh8")%></span>
 </td>
 
 
 	<td><%= request.getAttribute("num9") %></td>
 
-<td style="background-color:<%= request.getAttribute("co") %>">
+<td style="background-color:<%= request.getAttribute("co9") %>">
     <span title=<%=request.getAttribute("nu9")%>><%=request.getAttribute("nh9")%></span>
 </td>
 
